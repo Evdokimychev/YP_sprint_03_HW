@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08F88D6D-7578-47DA-A919-D295B5135BA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YP_sprint_03_HW2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - 5839a721e8a30baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.historyLabel.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/YP_sprint_03_HW2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - 96996bb1fb75c3de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.historyLabel.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/YP_sprint_03_HW2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - 914ebc721dbdee5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.historyLabel.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/YP_sprint_03_HW2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - cd3b004c3afa06e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.historyLabel.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - e66e0c629ec7b82c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; YP_sprint_03_HW2.ViewController"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/YP_sprint_03_HW2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "2BDDF659-17AA-4044-BDB5-4E49DDE7153A - 65eed52dfab84423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YP_sprint_03_HW2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;YP_sprint_03_HW2.ViewController&gt;"
+                  moduleName = "YP_sprint_03_HW2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Study/Desktop/iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203/YP_sprint_03_HW2/YP_sprint_03_HW2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
